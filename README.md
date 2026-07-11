@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Utkarsh Agrawal
 
-<!--
-**utkarshagrawal016-png/utkarshagrawal016-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year B.Tech student in Computer Science & Engineering (AI & Data Analytics)
 
-Here are some ideas to get you started:
+💻 Passionate about Backend Development, AI/ML, and Full-Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Java & DSA
+- Backend Development
+- React & Node.js
+- Machine Learning
+- Japanese (JLPT Journey)
+
+## 🛠️ Tech Stack
+Java • Python • JavaScript • React • Node.js • Flask • Express • MySQL • MongoDB • Git
+
+## 📈 Goals for 2026
+- 🚀 Build impactful full-stack projects
+- 📚 Strengthen DSA and System Design
+- 🤖 Explore AI/ML
+- 🇯🇵 Progress in Japanese language learning
