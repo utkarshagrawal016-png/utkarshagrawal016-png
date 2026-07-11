@@ -9,7 +9,6 @@
 - Backend Development
 - React & Node.js
 - Machine Learning
-- Japanese (JLPT Journey)
 
 ## 🛠️ Tech Stack
 Java • Python • JavaScript • React • Node.js • Flask • Express • MySQL • MongoDB • Git
@@ -18,4 +17,3 @@ Java • Python • JavaScript • React • Node.js • Flask • Express • M
 - 🚀 Build impactful full-stack projects
 - 📚 Strengthen DSA and System Design
 - 🤖 Explore AI/ML
-- 🇯🇵 Progress in Japanese language learning
